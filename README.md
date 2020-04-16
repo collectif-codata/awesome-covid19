@@ -11,7 +11,7 @@ Curated list of resources about COVID19 x Data Science &amp; AI
 # 🧬 Datasets
 - [John Hopkins official data](https://github.com/CSSEGISandData/COVID-19)
 - [OpenCovidFR curated list of data](https://github.com/opencovid19-fr)
-
+- [BigQuery public datasets: COVID-19](https://www.reddit.com/r/bigquery/comments/fxac2k/bigquery_public_datasets_covid19_related_datasets/)
 
 # 📝 Dashboards
 - [Official French outbreak dashboard](https://dashboard.covid19.data.gouv.fr/) - by Jérôme Desboeufs, Etalab
