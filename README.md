@@ -30,6 +30,7 @@ Curated list of resources about COVID19 x Data Science &amp; AI
 - [Why we must act now](https://medium.com/@tomaspueyo/coronavirus-act-today-or-people-will-die-f4d3d9cd99ca) - by Thomas Pueyo
 - [How the virus got out](https://www.nytimes.com/interactive/2020/03/22/world/coronavirus-spread.html) - by NYT
 - [Why It’s So Freaking Hard To Make A Good COVID-19 Model](https://fivethirtyeight.com/features/why-its-so-freaking-hard-to-make-a-good-covid-19-model/) - by FiveThirtyEight
+- [COVID AI Resources](https://github.com/StephaneCanu/covid_AI_resources/blob/master/GDR_ISIS_Covid_IA_2.pdf) - by Stéphane Canu
 
 ## Videos
 - [Exponential Growth & epidemics](https://www.youtube.com/watch?v=Kas0tIxDvrg&feature=youtu.be) by 3Blue1Brown
